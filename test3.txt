@@ -1,0 +1,2 @@
+This is my latest chapter to the story, I want to stage it so git can track it and commit these changes then push them
+all at once.
